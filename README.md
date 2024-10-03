@@ -1,2 +1,3 @@
-# FinanceApp
-App to help controlling the user's finnance.
+# ifinnance
+
+A new Flutter project.
